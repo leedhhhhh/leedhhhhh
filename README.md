@@ -4,7 +4,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleedhhhhh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/leedhhhhh)
 
-<img src="https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif" />
+<br />
+<img src="https://user-images.githubusercontent.com/86703459/184604923-ebcd1318-4d72-4546-a4c1-e65ec57fe061.gif" />
+<br />
 
 ## 🔧 Currently my stack 🔧
 
