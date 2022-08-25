@@ -40,7 +40,7 @@
 <br /><br /><br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedhhhhh&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedhhhhh&layout=compact)](https://github.com/leedhhhhh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedhhhhh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
